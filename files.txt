@@ -1,0 +1,16 @@
+C:\Users\DELL\Downloads\DJANGO_CICD\manage.py
+C:\Users\DELL\Downloads\DJANGO_CICD\accounts\admin.py
+C:\Users\DELL\Downloads\DJANGO_CICD\accounts\apps.py
+C:\Users\DELL\Downloads\DJANGO_CICD\accounts\models.py
+C:\Users\DELL\Downloads\DJANGO_CICD\accounts\tests.py
+C:\Users\DELL\Downloads\DJANGO_CICD\accounts\urls.py
+C:\Users\DELL\Downloads\DJANGO_CICD\accounts\views.py
+C:\Users\DELL\Downloads\DJANGO_CICD\accounts\__init__.py
+C:\Users\DELL\Downloads\DJANGO_CICD\accounts\migrations\0001_initial.py
+C:\Users\DELL\Downloads\DJANGO_CICD\accounts\migrations\__init__.py
+C:\Users\DELL\Downloads\DJANGO_CICD\books\views.py
+C:\Users\DELL\Downloads\DJANGO_CICD\core\asgi.py
+C:\Users\DELL\Downloads\DJANGO_CICD\core\settings.py
+C:\Users\DELL\Downloads\DJANGO_CICD\core\urls.py
+C:\Users\DELL\Downloads\DJANGO_CICD\core\wsgi.py
+C:\Users\DELL\Downloads\DJANGO_CICD\core\__init__.py
